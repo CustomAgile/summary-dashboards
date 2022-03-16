@@ -1,0 +1,40 @@
+.app {
+}
+.tsinfolink {
+    position:absolute;
+    right:0px;
+    width: 14px;
+    height: 14px;
+    border-radius: 7px;
+    text-align: center;
+    color: white;
+    background: #C0C0C0;
+    border-style: solid;
+    border-width: 1px;
+    margin-top: 25px;
+    margin-right: 5px;
+    cursor: pointer;
+}
+
+.grid-legend-show-action {
+    width: 18px;
+    height: 18px;
+    border-radius: 3px;
+    text-align: center;
+    color: white;
+    border-style: solid;
+    border-width: 1px;
+    display: inline-block;
+}
+
+.x-grid-row .row-hidden {
+    color: '#c9c9c9';
+}
+
+.x-grid-row .row-visible {
+    color: '#000000';
+}
+.triangle-down {
+    font-family: 'Pictofont';
+    content: icon-chevron-down;
+}
